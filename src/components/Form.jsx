@@ -10,7 +10,7 @@ const twoDigits = (num) => {
 };
 
 function getCardType(number) {
-	let path = '/assets/images/';
+	let path = './assets/images/';
 	// visa
 	var re = new RegExp('^4');
 	if (number.match(re) != null) return path + 'visa.png';

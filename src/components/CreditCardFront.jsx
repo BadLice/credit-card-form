@@ -10,7 +10,7 @@ const CreditCardFront = ({ number, holder, expiress, logoPath, point }) => {
 		<>
 			<div className={classes.row}>
 				<div className={classes.col}>
-					<img src='/assets/images/chip.png' alt='chip' className={classes.chip} />
+					<img src='./assets/images/chip.png' alt='chip' className={classes.chip} />
 				</div>
 				<div className={classes.col}>
 					<img src={logoPath} alt='logo' className={classes.logo} />

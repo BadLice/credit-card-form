@@ -1,7 +1,8 @@
 {
-	"name": "code",
+	"name": "credit-card-form",
 	"version": "0.1.0",
 	"private": true,
+	"homepage": "https://badlice.github.io/credit-card-form/",
 	"dependencies": {
 		"@testing-library/jest-dom": "^5.14.1",
 		"@testing-library/react": "^11.2.7",
