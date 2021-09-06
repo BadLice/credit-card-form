@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/credit-card-form/static/js/main.69bb6ee2.chunk.js",
-    "main.js.map": "/credit-card-form/static/js/main.69bb6ee2.chunk.js.map",
+    "main.js": "/credit-card-form/static/js/main.940a780a.chunk.js",
+    "main.js.map": "/credit-card-form/static/js/main.940a780a.chunk.js.map",
     "runtime-main.js": "/credit-card-form/static/js/runtime-main.08608b0a.js",
     "runtime-main.js.map": "/credit-card-form/static/js/runtime-main.08608b0a.js.map",
     "static/js/2.1ac7483d.chunk.js": "/credit-card-form/static/js/2.1ac7483d.chunk.js",
@@ -12,6 +12,6 @@
   "entrypoints": [
     "static/js/runtime-main.08608b0a.js",
     "static/js/2.1ac7483d.chunk.js",
-    "static/js/main.69bb6ee2.chunk.js"
+    "static/js/main.940a780a.chunk.js"
   ]
 }
